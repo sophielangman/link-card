@@ -21,6 +21,7 @@ html {
 
 a.link-card {
   text-decoration: none;
+  margin-bottom: 0;
 }
 
 .link-card h2 {
